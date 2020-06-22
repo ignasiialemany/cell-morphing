@@ -2,6 +2,8 @@
 
 ## Example
 
+All files for the example are located in the `example` directory.
+
 ### Data
 
 The segmentation can be done using masks, e.g. using GIMP. It then needs to be exported as a TIF image, with at least the following 3 pages:
