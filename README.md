@@ -1,5 +1,11 @@
 # Cell Morphing
 
+## References
+
+[![DOI:10.1002/mrm.27561](https://img.shields.io/badge/DOI-10.1002/mrm.27561-18315d.svg?logoColor=18315d)](https://doi.org/10.1002/mrm.27561)
+
+The code was developed for and is described in the paper [Rose et al, MRM, 2019](https://doi.org/10.1002/mrm.27561). Please cite it if you find it useful.
+
 ## Example
 
 All files for the example are located in the `example` directory.
@@ -25,3 +31,4 @@ The example image is obtained in MATLAB via `imread('coins.png')`, segmented as 
 To execute `example.mlx`, the source directory `./src/` needs to be on the MATLAB path.
 
 The paths in `example.mlx` assume you are in the same working directory as the script itself.
+
